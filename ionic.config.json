@@ -1,0 +1,7 @@
+{
+  "name": "formconlog",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
